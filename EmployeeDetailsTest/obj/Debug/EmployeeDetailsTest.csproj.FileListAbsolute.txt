@@ -1,0 +1,11 @@
+D:\SampleTasks\EmployeeProject\EmployeeDetailsTest\bin\Debug\EmployeeDetailsTest.dll
+D:\SampleTasks\EmployeeProject\EmployeeDetailsTest\bin\Debug\EmployeeDetailsTest.pdb
+D:\SampleTasks\EmployeeProject\EmployeeDetailsTest\obj\Debug\EmployeeDetailsTest.dll
+D:\SampleTasks\EmployeeProject\EmployeeDetailsTest\obj\Debug\EmployeeDetailsTest.pdb
+D:\SampleTasks\EmployeeProject\EmployeeDetailsTest\bin\Debug\Castle.Core.dll
+D:\SampleTasks\EmployeeProject\EmployeeDetailsTest\bin\Debug\EmployeeDetailsDAL.dll
+D:\SampleTasks\EmployeeProject\EmployeeDetailsTest\bin\Debug\Moq.dll
+D:\SampleTasks\EmployeeProject\EmployeeDetailsTest\bin\Debug\EmployeeDetailsDAL.pdb
+D:\SampleTasks\EmployeeProject\EmployeeDetailsTest\bin\Debug\Castle.Core.xml
+D:\SampleTasks\EmployeeProject\EmployeeDetailsTest\bin\Debug\Moq.xml
+D:\SampleTasks\EmployeeProject\EmployeeDetailsTest\obj\Debug\EmployeeDetailsTest.csprojResolveAssemblyReference.cache
