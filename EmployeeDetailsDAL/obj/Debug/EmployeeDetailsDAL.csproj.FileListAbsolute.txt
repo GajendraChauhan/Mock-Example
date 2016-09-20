@@ -1,0 +1,10 @@
+D:\SampleTasks\EmployeeProject\EmployeeDetailsDAL\bin\Debug\EmployeeDetailsDAL.dll
+D:\SampleTasks\EmployeeProject\EmployeeDetailsDAL\bin\Debug\EmployeeDetailsDAL.pdb
+D:\SampleTasks\EmployeeProject\EmployeeDetailsDAL\obj\Debug\EmployeeDetailsDAL.dll
+D:\SampleTasks\EmployeeProject\EmployeeDetailsDAL\obj\Debug\EmployeeDetailsDAL.pdb
+D:\SampleTasks\EmployeeProject\EmployeeDetailsDAL\obj\Debug\EmployeeDetailsDAL.csprojResolveAssemblyReference.cache
+D:\GSChauhan_Codebase\Mock-Example\EmployeeDetailsDAL\bin\Debug\EmployeeDetailsDAL.dll
+D:\GSChauhan_Codebase\Mock-Example\EmployeeDetailsDAL\bin\Debug\EmployeeDetailsDAL.pdb
+D:\GSChauhan_Codebase\Mock-Example\EmployeeDetailsDAL\obj\Debug\EmployeeDetailsDAL.csprojResolveAssemblyReference.cache
+D:\GSChauhan_Codebase\Mock-Example\EmployeeDetailsDAL\obj\Debug\EmployeeDetailsDAL.dll
+D:\GSChauhan_Codebase\Mock-Example\EmployeeDetailsDAL\obj\Debug\EmployeeDetailsDAL.pdb
